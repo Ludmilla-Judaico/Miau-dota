@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo{
+    background-color: brown;
+    color: aliceblue;
+}
+
+.cards{
+    display: flex;
+    margin:20px;
+}
+
+.card img{
+    width: 130px;
+}
